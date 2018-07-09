@@ -1,0 +1,30 @@
+Response,ASC,Airline,Location,Timezone
+neutral,100,Virgin America,Unknown,Eastern Time (US & Canada)
+positive,50,Virgin America,Unknown,Pacific Time (US & Canada)
+neutral,75,Virgin America,Lets Play,Central Time (US & Canada)
+negative,100,Virgin America,Unknown,Pacific Time (US & Canada)
+negative,100,Virgin America,Unknown,Pacific Time (US & Canada)
+negative,100,Virgin America,Unknown,Pacific Time (US & Canada)
+positive,75,Virgin America,San Francisco CA,Pacific Time (US & Canada)
+neutral,75,Virgin America,Los Angeles,Pacific Time (US & Canada)
+positive,75,Virgin America,San Diego,Pacific Time (US & Canada)
+positive,100,Virgin America,Los Angeles,Eastern Time (US & Canada)
+neutral,75,Virgin America,1/1 loner squad,Eastern Time (US & Canada)
+positive,100,Virgin America,NYC,America/New_York
+positive,100,Virgin America,NYC,America/New_York
+positive,75,Virgin America,Unknown,Eastern Time (US & Canada)
+positive,100,Virgin America,"San Francisco, CA",Pacific Time (US & Canada)
+negative,75,Virgin America,"palo alto, ca",Pacific Time (US & Canada)
+positive,100,Virgin America,west covina,Pacific Time (US & Canada)
+negative,100,Virgin America,this place called NYC,Eastern Time (US & Canada)
+positive,100,Virgin America,Somewhere celebrating life. ,Atlantic Time (Canada)
+positive,100,Virgin America,Boston | Waltham,Quito
+negative,75,Virgin America,Unknown,Unknown
+positive,100,Virgin America,Unknown,Unknown
+positive,100,Virgin America,Los Angeles,Pacific Time (US & Canada)
+neutral,100,Virgin America,"Boston, MA ",Eastern Time (US & Canada)
+negative,100,Virgin America,714,Mountain Time (US & Canada)
+negative,100,Virgin America,Unknown,Unknown
+negative,100,Virgin America,Unknown,Unknown
+neutral,75,Virgin America,"San Francisco, CA",Central Time (US & Canada)
+negative,100,Virgin America,"San Mateo, CA & Las Vegas, NV",Unknown
